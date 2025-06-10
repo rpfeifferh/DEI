@@ -1,2 +1,2 @@
-# DEI
-Design + Engineering + Innovation
+# EDI
+Engineering + Design + Innovation
